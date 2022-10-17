@@ -1,0 +1,49 @@
+nav ul li{
+  display: inline;
+}
+nav ul {
+  background-color: #000000;
+  text-align: center;
+}
+nav ul li a{
+  color: #ffffff;
+  text-decoration: none;
+  font-family: sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700px;
+  text-transform: uppercase;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+body{
+  background-color: #000000;
+}
+body#body4{
+  background-color: blanchedalmond;
+}
+video#video2{
+  padding-right: 100px;
+  border-left: #000000;
+}
+main{
+  color: #ffffff;
+  font-size: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+main#main2{
+  padding-top: 30px;
+}
+.video {
+  position: relative;
+  padding-bottom: 56.27%;
+}
+.videomedia {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
